@@ -1,7 +1,7 @@
 Hello
 =====
 Make a Pull Request!
-Todo
+To do :)
 ------
 1) **Fork** this repository  
 2) **Clone** your forked repo to your computer ```git clone <forked-link>```  
