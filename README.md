@@ -1,6 +1,6 @@
 Hello
 =====
-How to make a Dull Vest
+How to make a Pull Request
 Todo
 ------
 1) **Fork** this repository  
