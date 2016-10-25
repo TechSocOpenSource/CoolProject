@@ -151,3 +151,6 @@ crashlytics.properties
 crashlytics-build.properties
 fabric.properties
 
+# Mac Hidden data
+.DS_Store
+
