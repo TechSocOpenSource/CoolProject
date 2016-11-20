@@ -1,7 +1,9 @@
 Hello
 =====
+[Return to the article](https://medium.com)  
+Let put what you've learnt into practice!  
+
 How to make a Pull Request
-Todo
 ------
 1) **Fork** this repository  
 2) **Clone** your forked repo to your computer ```git clone <forked-link>```  
