@@ -1,6 +1,6 @@
 Hello
 =====
-[Return to the article](https://medium.com)  
+[Return to the article](https://medium.com/@benjaminhadfield/demystifying-the-jargon-of-github-98b37a1364f7)  
 Let put what you've learnt into practice!  
 
 How to make a Pull Request
